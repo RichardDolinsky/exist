@@ -13,7 +13,7 @@ public class insertNumber {
 		
 		
 		//if n si odd print right
-		if(insertValue%2==1) {
+		if(insertValue%2==1 ) {
 			System.out.println("Cislo nie je parne: " + insertValue );}
 		
 		else if (insertValue==0) { 
